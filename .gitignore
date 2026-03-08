@@ -1,0 +1,6 @@
+*.exe
+*.o
+calculator
+*.log
+.vscode
+Thumbs.db
