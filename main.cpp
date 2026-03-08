@@ -5,7 +5,7 @@ int main() {
     int b = 25;
     int sum = a + b;
     
-    printf("калькулятор\n");
+    printf("калькулятор \n");
     printf("ч: %d и %d\n", a, b);
     printf("с: %d\n", sum);
     
